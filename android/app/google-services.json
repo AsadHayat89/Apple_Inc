@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "175487198466",
+    "firebase_url": "https://strange-bloom-344-default-rtdb.firebaseio.com",
+    "project_id": "strange-bloom-344",
+    "storage_bucket": "strange-bloom-344.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175487198466:android:4b80029fa8b37dfd018e1b",
+        "android_client_info": {
+          "package_name": "com.example.apple_inc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175487198466-505pihqbkc32gm0aom1oh339qemvc2me.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOPjq6kXIvlLf4fV_HT6hdbEPB8npZMHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175487198466-505pihqbkc32gm0aom1oh339qemvc2me.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175487198466:android:b0cb6ac45228ee9b018e1b",
+        "android_client_info": {
+          "package_name": "com.example.followyield"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175487198466-505pihqbkc32gm0aom1oh339qemvc2me.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOPjq6kXIvlLf4fV_HT6hdbEPB8npZMHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175487198466-505pihqbkc32gm0aom1oh339qemvc2me.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
